@@ -1,0 +1,97 @@
+/*header start*/
+
+.header_top {
+	min-height: 100px;
+	background-color: #E6E2EB;
+}
+
+.hdd {
+	font-size: 35px;
+	font-style: oblique;
+	padding-top: 15px;
+}
+
+/*header end*/
+
+/*service start*/
+
+.content {
+	min-height: 45px;
+	background-color: #D1C9DA;
+
+	border: 1px solid gray;
+
+}
+
+.content1 {
+	min-height: 70px;
+
+	background-color: #E6E2EB;
+	margin-bottom: 5px;
+	border: 1px solid gray;
+
+}
+
+.p-2 {
+	border: 1px solid black;
+	min-height: 45px;
+	margin: 0px 2px 0px 2px;
+	border-color: #D1C9DA;
+
+}
+
+.p-2.bd-highlight {
+	background-color: #e1c7ff;
+	border: transparent;
+	width: 100px;
+}
+
+/*service end*/
+
+/*gallary start*/
+
+.img99 {
+	min-height: 200px;
+	margin-top: 5px;
+
+}
+
+.ssp {
+	height: 200px;
+	width: 200px;
+
+}
+
+.img999 {
+	border: 2px dotted gray;
+	margin-bottom: 5px;
+}
+
+/*gallary end*/
+
+/*text style start*/
+
+.text-design {
+	border: 2px dotted blue;
+	min-height: 400px;
+	padding: 10px;
+}
+
+.text-design1 {
+	border: 2px dotted blue;
+	min-height: 100px;
+	padding: 10px;
+}
+
+/*text style end*/
+
+/*footer stayle start*/
+
+.footer {
+	min-height: 200px;
+	border: 2px dotted gray;
+	margin-top: 10px;
+
+}
+
+/*footer stayle end*/
